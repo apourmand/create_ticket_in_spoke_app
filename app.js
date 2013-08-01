@@ -19,7 +19,8 @@
       createTicket: function() {
         return {
           url: 'http://' + this.targetSpoke + '/requests/embedded/create.json?subject=' + this.newSub + '&description='+ this.newDesc + '&name=' + this.newRequester  + '&email='+ encodeURI(this.newEmail) + '',
-          dataType: 'JSON'
+          dataType: 'JSON',
+          proxy_v2: true
         };
       }
     }, //end requests

@@ -1,15 +1,9 @@
-<html>
-<head>
-</head>
-<body>
+<header>
 <div class="accounts_app">
   <div>
    <h3>{{setting "name"}} <span class="logo"></span></h3>
   </div>
-  <hr/>
+</header>
 <section data-main>
-	 <button class='displayForm'>Create Spoke Ticket</button>
+<button class='displayForm'>{{t "btn.create"}}</button>
 </section>
-</div>
-</body>
-<html>

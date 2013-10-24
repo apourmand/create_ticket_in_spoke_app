@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-</head>
-<body>
-	<div id='createtheticket'>
+<section data-main>
+		<div id='createtheticket'>
 		<div class="select" style>
 		    <label for="zendeskSelect">Select Spoke Account</label>
 		     <select id="zendeskSelect" name="zendeskSelect" onchange style="width: auto;">
-		          <option value="-">-</option>
-		          <option value="sutoka.techassistant.net">Germany</option>
+		           <option value="support.bacula4hosts.com">B4H</option>
+			    <option value="support.cognecy.com">Cognecy</option>
+			   <option value="support.cologlobal.com">Cologlobal</option>
+			   <option value="support.technomax360support.com">TechnoMax</option>
+			   <option value="support.webcorelabs.com">Webcore Labs</option>
+
 		     </select>
 		<ol>
 			<li>
@@ -37,6 +37,5 @@
 	   </ol>
 	   </div>
    </div>
-</body>
-<html>
+</section>
 

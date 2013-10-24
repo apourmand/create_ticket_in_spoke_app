@@ -1,8 +1,4 @@
-<html>
-<head>
-</head>
-<body>
+<section data-main>
 <div>{{newTicket}} was created in {{spoke}}</div>
  <button class='displayForm'>Create Spoke Ticket</button>
-</body>
-</html>
+</section>

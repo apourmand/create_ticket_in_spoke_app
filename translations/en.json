@@ -2,5 +2,24 @@
   "app": {
     "description":"Create a ticket in a Enterprise Spoke account from the Hub",
     "name":"Create a Spoke ticket"
-  }
+  },
+	"placeholder": {
+		"subject": "Enter Subject",
+		"email": "me@example.com",
+		"name": "Enter Name of Reuquester",
+		"description": "Please Describe the issue"
+	},
+	"btn": {
+		"create": "Create Spoke Ticket"
+	},
+	"labels": {
+		"spoke": "Select Spoke Account",
+		"priority": "Priority",
+		"type": "Type",
+		"tag": "Tag",
+		"requester": "Requester Name",
+		"email": "Requester Email",
+		"subject": "Subject",
+		"description": "Description"
+	}
 }

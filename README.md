@@ -12,3 +12,5 @@ In the ```requester.hdbs``` you will put the CNAME of the spoke Zendesk as the v
           <option value="sutoka.techassistant.net">Germany</option>
      </select>
 ```
+
+By downloading this app, you are agreeing to our [terms and conditions](https://github.com/zendesklabs/wiki/wiki/Terms-and-Conditions)

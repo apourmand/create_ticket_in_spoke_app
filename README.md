@@ -37,5 +37,5 @@ In the ```requester.hdbs``` you will put the CNAME of the spoke Zendesk as the v
 Pull requests are welcome.
 
 ## Screenshot(s):
-![A screenshot showing the Create Tickets in Spoke app in action](http://cl.ly/image/2R2H3p3V322G/spoke_ticket.gif)
+![A screenshot showing the Create Tickets in Spoke app in action](http://i.imgur.com/EqYY4uG.gif)
 

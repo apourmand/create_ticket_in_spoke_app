@@ -3,11 +3,11 @@
 		<div class="select" style>
 		    <label for="zendeskSelect">Select Spoke Account</label>
 		     <select id="zendeskSelect" name="zendeskSelect" onchange style="width: auto;">
-		           <option value="support.bacula4hosts.com">B4H</option>
-			    <option value="support.cognecy.com">Cognecy</option>
-			   <option value="support.cologlobal.com">Cologlobal</option>
-			   <option value="support.technomax360support.com">TechnoMax</option>
-			   <option value="support.webcorelabs.com">Webcore Labs</option>
+		           <option value="support.domain1.com">Spoke 1</option>
+			    <option value="support.domain2.com">Spoke 2</option>
+			   <option value="support.domain3.com">Spoke 3</option>
+			   <option value="support.domain4.com">Spoke 4</option>
+			   <option value="support.domain5.com">Spoke 5</option>
 
 		     </select>
 		<ol>
